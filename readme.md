@@ -31,7 +31,7 @@ userPass: TestPass
 userToken: Token
  ```
 ### DELETE
-1. **user** - Deletes 1 user _(URL params: id)_
+1. **user** - Deletes 1 user
 URL params
  ```
  id
